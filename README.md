@@ -26,9 +26,7 @@ The project was developed with a modular architecture, following separation of r
 
 The automation follows the pipeline below.
 
-<p align="center">
-  <img src="images/fluxo.png" width="900">
-</p>
+[![Workflow](images/fluxo.png)](images/fluxo.png)
 
 1. Load sales, stores and managers data.
 2. Merge datasets.
