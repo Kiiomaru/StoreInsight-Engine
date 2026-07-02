@@ -46,7 +46,9 @@ The automation follows the pipeline below.
 
 The project is organized into independent modules, each responsible for a specific part of the business logic.
 
-[![Workflow](images/arquitetura.png)](images/arquitetura.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kiiomaru/StoreInsight-Engine/refs/heads/main/images/fluxo.png" width="45%">
+</p>
 
 ```text
 StoreInsight-Engine/
@@ -122,7 +124,7 @@ Each store manager receives an individualized HTML report containing:
 - Visual indicators (green/red)
 - Store spreadsheet attached automatically
 
-[![Workflow](images/email)](images/email.png)
+
 
 ---
 
@@ -130,7 +132,9 @@ Each store manager receives an individualized HTML report containing:
 
 The application automatically generates a spreadsheet containing the ranking of all stores for the selected day.
 
-[![Workflow](images/relatorio_dia.png)](images/relatorio_dia.png)
+<p align="center">
+  <img src="https://github.com/Kiiomaru/StoreInsight-Engine/blob/main/images/relatorio_dia.png" width="45%">
+</p>
 
 ---
 
@@ -138,7 +142,9 @@ The application automatically generates a spreadsheet containing the ranking of 
 
 The system also generates the annual performance ranking.
 
-[![Workflow](images/relatorio_ano.png)](images/relatorio_ano.png)
+<p align="center">
+  <img src="https://github.com/Kiiomaru/StoreInsight-Engine/blob/main/images/relatorio_ano.png" width="45%">
+</p>
 
 ---
 
@@ -146,7 +152,9 @@ The system also generates the annual performance ranking.
 
 For every execution, StoreInsight Engine creates organized backup folders and exports the generated spreadsheets automatically.
 
-[![Workflow](images/pastas.png)](images/pastas.png)
+<p align="center">
+  <img src="https://github.com/Kiiomaru/StoreInsight-Engine/blob/main/images/pastas.png" widht="45%">
+</p>
 
 ---
 
@@ -161,7 +169,9 @@ During execution the application:
 - Sends emails
 - Generates executive rankings
 
-[![Workflow](images/terminal.png)](images/terminal.png)
+<p align="center">
+  <img src="https://github.com/Kiiomaru/StoreInsight-Engine/blob/main/images/terminal.png" widht="45%">
+</p>
 
 ---
 
