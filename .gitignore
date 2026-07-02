@@ -1,0 +1,54 @@
+--- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.cmake
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Ambientes Virtuais (Virtual Environments) ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Configurações do VS Code / IDEs ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# --- Segurança e Credenciais (SUPER IMPORTANTE) ---
+.env
+.env.*
+secret_key
+config.json
+credentials.json
+
+# --- Arquivos de Dados / Outputs do Projeto ---
+# Descomente as linhas abaixo se NÃO quiser subir as bases de dados e PDFs para o GitHub
+# Bases de Dados/
+# *.xlsx
+# *.csv
+# *.pdf
