@@ -44,9 +44,7 @@ The automation follows the pipeline below.
 
 The project is organized into independent modules, each responsible for a specific part of the business logic.
 
-<p align="center">
-  <img src="images/arquitetura.png" width="350">
-</p>
+[![Workflow](images/arquitetura.png)](images/arquitetura.png)
 
 ```text
 StoreInsight-Engine/
@@ -122,9 +120,7 @@ Each store manager receives an individualized HTML report containing:
 - Visual indicators (green/red)
 - Store spreadsheet attached automatically
 
-<p align="center">
-  <img src="images/email.png" width="850">
-</p>
+[![Workflow](images/email)](images/email.png)
 
 ---
 
@@ -132,9 +128,7 @@ Each store manager receives an individualized HTML report containing:
 
 The application automatically generates a spreadsheet containing the ranking of all stores for the selected day.
 
-<p align="center">
-  <img src="images/relatorio_dia.png" width="850">
-</p>
+[![Workflow](images/relatorio_dia.png)](images/relatorio_dia.png)
 
 ---
 
@@ -142,9 +136,7 @@ The application automatically generates a spreadsheet containing the ranking of 
 
 The system also generates the annual performance ranking.
 
-<p align="center">
-  <img src="images/relatorio_ano.png" width="850">
-</p>
+[![Workflow](images/relatorio_ano.png)](images/relatorio_ano.png)
 
 ---
 
@@ -152,9 +144,7 @@ The system also generates the annual performance ranking.
 
 For every execution, StoreInsight Engine creates organized backup folders and exports the generated spreadsheets automatically.
 
-<p align="center">
-  <img src="images/pastas.png" width="850">
-</p>
+[![Workflow](images/pastas.png)](images/pastas.png)
 
 ---
 
@@ -169,9 +159,7 @@ During execution the application:
 - Sends emails
 - Generates executive rankings
 
-<p align="center">
-  <img src="images/terminal.png" width="850">
-</p>
+[![Workflow](images/terminal.png)](images/terminal.png)
 
 ---
 
