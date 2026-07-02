@@ -26,6 +26,9 @@ The project was developed with a modular architecture, following separation of r
 
 The automation follows the pipeline below.
 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/Kiiomaru/StoreInsight-Engine/main/sua-imagem.png](https://raw.githubusercontent.com/Kiiomaru/StoreInsight-Engine/refs/heads/main/images/fluxo.png)" width="45%">
+</p>
 [![Workflow](images/fluxo.png)](images/fluxo.png)
 
 1. Load sales, stores and managers data.
