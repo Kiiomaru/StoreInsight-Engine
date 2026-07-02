@@ -47,7 +47,7 @@ The automation follows the pipeline below.
 The project is organized into independent modules, each responsible for a specific part of the business logic.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kiiomaru/StoreInsight-Engine/refs/heads/main/images/fluxo.png" width="45%">
+  <img src="https://raw.githubusercontent.com/Kiiomaru/StoreInsight-Engine/refs/heads/main/images/arquitetura.png" width="45%">
 </p>
 
 ```text
